@@ -9,7 +9,7 @@ export const App = () => {
       <Navbar/>
       <ItemListContainer greeting={"agregue producto"}/>
       <Contador/>
-      <Saludo mensaje={"bienvenidos a Dulce Chloe"}/>
+      
     </div>
     
   );
